@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\DOTNET\CS03\bin\Debug\net6.0\CS03.exe
+C:\Users\DELL\Desktop\DOTNET\CS03\bin\Debug\net6.0\CS03.deps.json
+C:\Users\DELL\Desktop\DOTNET\CS03\bin\Debug\net6.0\CS03.runtimeconfig.json
+C:\Users\DELL\Desktop\DOTNET\CS03\bin\Debug\net6.0\CS03.dll
+C:\Users\DELL\Desktop\DOTNET\CS03\bin\Debug\net6.0\CS03.pdb
+C:\Users\DELL\Desktop\DOTNET\CS03\obj\Debug\net6.0\CS03.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DOTNET\CS03\obj\Debug\net6.0\CS03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DOTNET\CS03\obj\Debug\net6.0\CS03.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DOTNET\CS03\obj\Debug\net6.0\CS03.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DOTNET\CS03\obj\Debug\net6.0\CS03.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DOTNET\CS03\obj\Debug\net6.0\CS03.dll
+C:\Users\DELL\Desktop\DOTNET\CS03\obj\Debug\net6.0\refint\CS03.dll
+C:\Users\DELL\Desktop\DOTNET\CS03\obj\Debug\net6.0\CS03.pdb
+C:\Users\DELL\Desktop\DOTNET\CS03\obj\Debug\net6.0\CS03.genruntimeconfig.cache
+C:\Users\DELL\Desktop\DOTNET\CS03\obj\Debug\net6.0\ref\CS03.dll

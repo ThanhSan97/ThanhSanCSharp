@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\DOTNET\CS08_Mang\bin\Debug\net6.0\CS08_Mang.exe
+C:\Users\DELL\Desktop\DOTNET\CS08_Mang\bin\Debug\net6.0\CS08_Mang.deps.json
+C:\Users\DELL\Desktop\DOTNET\CS08_Mang\bin\Debug\net6.0\CS08_Mang.runtimeconfig.json
+C:\Users\DELL\Desktop\DOTNET\CS08_Mang\bin\Debug\net6.0\CS08_Mang.dll
+C:\Users\DELL\Desktop\DOTNET\CS08_Mang\bin\Debug\net6.0\CS08_Mang.pdb
+C:\Users\DELL\Desktop\DOTNET\CS08_Mang\obj\Debug\net6.0\CS08_Mang.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DOTNET\CS08_Mang\obj\Debug\net6.0\CS08_Mang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DOTNET\CS08_Mang\obj\Debug\net6.0\CS08_Mang.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DOTNET\CS08_Mang\obj\Debug\net6.0\CS08_Mang.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DOTNET\CS08_Mang\obj\Debug\net6.0\CS08_Mang.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DOTNET\CS08_Mang\obj\Debug\net6.0\CS08_Mang.dll
+C:\Users\DELL\Desktop\DOTNET\CS08_Mang\obj\Debug\net6.0\refint\CS08_Mang.dll
+C:\Users\DELL\Desktop\DOTNET\CS08_Mang\obj\Debug\net6.0\CS08_Mang.pdb
+C:\Users\DELL\Desktop\DOTNET\CS08_Mang\obj\Debug\net6.0\CS08_Mang.genruntimeconfig.cache
+C:\Users\DELL\Desktop\DOTNET\CS08_Mang\obj\Debug\net6.0\ref\CS08_Mang.dll

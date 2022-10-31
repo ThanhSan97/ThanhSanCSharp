@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\DOTNET\cs05_IfElse\bin\Debug\net6.0\cs05_IfElse.exe
+C:\Users\DELL\Desktop\DOTNET\cs05_IfElse\bin\Debug\net6.0\cs05_IfElse.deps.json
+C:\Users\DELL\Desktop\DOTNET\cs05_IfElse\bin\Debug\net6.0\cs05_IfElse.runtimeconfig.json
+C:\Users\DELL\Desktop\DOTNET\cs05_IfElse\bin\Debug\net6.0\cs05_IfElse.dll
+C:\Users\DELL\Desktop\DOTNET\cs05_IfElse\bin\Debug\net6.0\cs05_IfElse.pdb
+C:\Users\DELL\Desktop\DOTNET\cs05_IfElse\obj\Debug\net6.0\cs05_IfElse.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DOTNET\cs05_IfElse\obj\Debug\net6.0\cs05_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DOTNET\cs05_IfElse\obj\Debug\net6.0\cs05_IfElse.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DOTNET\cs05_IfElse\obj\Debug\net6.0\cs05_IfElse.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DOTNET\cs05_IfElse\obj\Debug\net6.0\cs05_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DOTNET\cs05_IfElse\obj\Debug\net6.0\cs05_IfElse.dll
+C:\Users\DELL\Desktop\DOTNET\cs05_IfElse\obj\Debug\net6.0\refint\cs05_IfElse.dll
+C:\Users\DELL\Desktop\DOTNET\cs05_IfElse\obj\Debug\net6.0\cs05_IfElse.pdb
+C:\Users\DELL\Desktop\DOTNET\cs05_IfElse\obj\Debug\net6.0\cs05_IfElse.genruntimeconfig.cache
+C:\Users\DELL\Desktop\DOTNET\cs05_IfElse\obj\Debug\net6.0\ref\cs05_IfElse.dll

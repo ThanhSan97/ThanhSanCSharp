@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\DOTNET\CS10_ClassVaOOp\bin\Debug\net6.0\CS10_ClassVaOOp.exe
+C:\Users\DELL\Desktop\DOTNET\CS10_ClassVaOOp\bin\Debug\net6.0\CS10_ClassVaOOp.deps.json
+C:\Users\DELL\Desktop\DOTNET\CS10_ClassVaOOp\bin\Debug\net6.0\CS10_ClassVaOOp.runtimeconfig.json
+C:\Users\DELL\Desktop\DOTNET\CS10_ClassVaOOp\bin\Debug\net6.0\CS10_ClassVaOOp.dll
+C:\Users\DELL\Desktop\DOTNET\CS10_ClassVaOOp\bin\Debug\net6.0\CS10_ClassVaOOp.pdb
+C:\Users\DELL\Desktop\DOTNET\CS10_ClassVaOOp\obj\Debug\net6.0\CS10_ClassVaOOp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DOTNET\CS10_ClassVaOOp\obj\Debug\net6.0\CS10_ClassVaOOp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DOTNET\CS10_ClassVaOOp\obj\Debug\net6.0\CS10_ClassVaOOp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DOTNET\CS10_ClassVaOOp\obj\Debug\net6.0\CS10_ClassVaOOp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DOTNET\CS10_ClassVaOOp\obj\Debug\net6.0\CS10_ClassVaOOp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DOTNET\CS10_ClassVaOOp\obj\Debug\net6.0\CS10_ClassVaOOp.dll
+C:\Users\DELL\Desktop\DOTNET\CS10_ClassVaOOp\obj\Debug\net6.0\refint\CS10_ClassVaOOp.dll
+C:\Users\DELL\Desktop\DOTNET\CS10_ClassVaOOp\obj\Debug\net6.0\CS10_ClassVaOOp.pdb
+C:\Users\DELL\Desktop\DOTNET\CS10_ClassVaOOp\obj\Debug\net6.0\CS10_ClassVaOOp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\DOTNET\CS10_ClassVaOOp\obj\Debug\net6.0\ref\CS10_ClassVaOOp.dll

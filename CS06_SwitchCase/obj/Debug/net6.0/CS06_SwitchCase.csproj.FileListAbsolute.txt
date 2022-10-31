@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\DOTNET\CS06_SwitchCase\bin\Debug\net6.0\CS06_SwitchCase.exe
+C:\Users\DELL\Desktop\DOTNET\CS06_SwitchCase\bin\Debug\net6.0\CS06_SwitchCase.deps.json
+C:\Users\DELL\Desktop\DOTNET\CS06_SwitchCase\bin\Debug\net6.0\CS06_SwitchCase.runtimeconfig.json
+C:\Users\DELL\Desktop\DOTNET\CS06_SwitchCase\bin\Debug\net6.0\CS06_SwitchCase.dll
+C:\Users\DELL\Desktop\DOTNET\CS06_SwitchCase\bin\Debug\net6.0\CS06_SwitchCase.pdb
+C:\Users\DELL\Desktop\DOTNET\CS06_SwitchCase\obj\Debug\net6.0\CS06_SwitchCase.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DOTNET\CS06_SwitchCase\obj\Debug\net6.0\CS06_SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DOTNET\CS06_SwitchCase\obj\Debug\net6.0\CS06_SwitchCase.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DOTNET\CS06_SwitchCase\obj\Debug\net6.0\CS06_SwitchCase.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DOTNET\CS06_SwitchCase\obj\Debug\net6.0\CS06_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DOTNET\CS06_SwitchCase\obj\Debug\net6.0\CS06_SwitchCase.dll
+C:\Users\DELL\Desktop\DOTNET\CS06_SwitchCase\obj\Debug\net6.0\refint\CS06_SwitchCase.dll
+C:\Users\DELL\Desktop\DOTNET\CS06_SwitchCase\obj\Debug\net6.0\CS06_SwitchCase.pdb
+C:\Users\DELL\Desktop\DOTNET\CS06_SwitchCase\obj\Debug\net6.0\CS06_SwitchCase.genruntimeconfig.cache
+C:\Users\DELL\Desktop\DOTNET\CS06_SwitchCase\obj\Debug\net6.0\ref\CS06_SwitchCase.dll

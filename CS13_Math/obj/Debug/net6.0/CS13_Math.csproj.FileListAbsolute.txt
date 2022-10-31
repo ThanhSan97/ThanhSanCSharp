@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\DOTNET\CS13_Math\bin\Debug\net6.0\CS13_Math.exe
+C:\Users\DELL\Desktop\DOTNET\CS13_Math\bin\Debug\net6.0\CS13_Math.deps.json
+C:\Users\DELL\Desktop\DOTNET\CS13_Math\bin\Debug\net6.0\CS13_Math.runtimeconfig.json
+C:\Users\DELL\Desktop\DOTNET\CS13_Math\bin\Debug\net6.0\CS13_Math.dll
+C:\Users\DELL\Desktop\DOTNET\CS13_Math\bin\Debug\net6.0\CS13_Math.pdb
+C:\Users\DELL\Desktop\DOTNET\CS13_Math\obj\Debug\net6.0\CS13_Math.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DOTNET\CS13_Math\obj\Debug\net6.0\CS13_Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DOTNET\CS13_Math\obj\Debug\net6.0\CS13_Math.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DOTNET\CS13_Math\obj\Debug\net6.0\CS13_Math.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DOTNET\CS13_Math\obj\Debug\net6.0\CS13_Math.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DOTNET\CS13_Math\obj\Debug\net6.0\CS13_Math.dll
+C:\Users\DELL\Desktop\DOTNET\CS13_Math\obj\Debug\net6.0\refint\CS13_Math.dll
+C:\Users\DELL\Desktop\DOTNET\CS13_Math\obj\Debug\net6.0\CS13_Math.pdb
+C:\Users\DELL\Desktop\DOTNET\CS13_Math\obj\Debug\net6.0\CS13_Math.genruntimeconfig.cache
+C:\Users\DELL\Desktop\DOTNET\CS13_Math\obj\Debug\net6.0\ref\CS13_Math.dll

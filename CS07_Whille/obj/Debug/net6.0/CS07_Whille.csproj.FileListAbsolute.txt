@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\DOTNET\CS07_Whille\bin\Debug\net6.0\CS07_Whille.exe
+C:\Users\DELL\Desktop\DOTNET\CS07_Whille\bin\Debug\net6.0\CS07_Whille.deps.json
+C:\Users\DELL\Desktop\DOTNET\CS07_Whille\bin\Debug\net6.0\CS07_Whille.runtimeconfig.json
+C:\Users\DELL\Desktop\DOTNET\CS07_Whille\bin\Debug\net6.0\CS07_Whille.dll
+C:\Users\DELL\Desktop\DOTNET\CS07_Whille\bin\Debug\net6.0\CS07_Whille.pdb
+C:\Users\DELL\Desktop\DOTNET\CS07_Whille\obj\Debug\net6.0\CS07_Whille.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DOTNET\CS07_Whille\obj\Debug\net6.0\CS07_Whille.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DOTNET\CS07_Whille\obj\Debug\net6.0\CS07_Whille.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DOTNET\CS07_Whille\obj\Debug\net6.0\CS07_Whille.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DOTNET\CS07_Whille\obj\Debug\net6.0\CS07_Whille.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DOTNET\CS07_Whille\obj\Debug\net6.0\CS07_Whille.dll
+C:\Users\DELL\Desktop\DOTNET\CS07_Whille\obj\Debug\net6.0\refint\CS07_Whille.dll
+C:\Users\DELL\Desktop\DOTNET\CS07_Whille\obj\Debug\net6.0\CS07_Whille.pdb
+C:\Users\DELL\Desktop\DOTNET\CS07_Whille\obj\Debug\net6.0\CS07_Whille.genruntimeconfig.cache
+C:\Users\DELL\Desktop\DOTNET\CS07_Whille\obj\Debug\net6.0\ref\CS07_Whille.dll

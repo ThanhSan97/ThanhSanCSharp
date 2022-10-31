@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\DOTNET\CS12_STRUCT\bin\Debug\net6.0\CS12_STRUCT.exe
+C:\Users\DELL\Desktop\DOTNET\CS12_STRUCT\bin\Debug\net6.0\CS12_STRUCT.deps.json
+C:\Users\DELL\Desktop\DOTNET\CS12_STRUCT\bin\Debug\net6.0\CS12_STRUCT.runtimeconfig.json
+C:\Users\DELL\Desktop\DOTNET\CS12_STRUCT\bin\Debug\net6.0\CS12_STRUCT.dll
+C:\Users\DELL\Desktop\DOTNET\CS12_STRUCT\bin\Debug\net6.0\CS12_STRUCT.pdb
+C:\Users\DELL\Desktop\DOTNET\CS12_STRUCT\obj\Debug\net6.0\CS12_STRUCT.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DOTNET\CS12_STRUCT\obj\Debug\net6.0\CS12_STRUCT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DOTNET\CS12_STRUCT\obj\Debug\net6.0\CS12_STRUCT.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DOTNET\CS12_STRUCT\obj\Debug\net6.0\CS12_STRUCT.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DOTNET\CS12_STRUCT\obj\Debug\net6.0\CS12_STRUCT.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DOTNET\CS12_STRUCT\obj\Debug\net6.0\CS12_STRUCT.dll
+C:\Users\DELL\Desktop\DOTNET\CS12_STRUCT\obj\Debug\net6.0\refint\CS12_STRUCT.dll
+C:\Users\DELL\Desktop\DOTNET\CS12_STRUCT\obj\Debug\net6.0\CS12_STRUCT.pdb
+C:\Users\DELL\Desktop\DOTNET\CS12_STRUCT\obj\Debug\net6.0\CS12_STRUCT.genruntimeconfig.cache
+C:\Users\DELL\Desktop\DOTNET\CS12_STRUCT\obj\Debug\net6.0\ref\CS12_STRUCT.dll

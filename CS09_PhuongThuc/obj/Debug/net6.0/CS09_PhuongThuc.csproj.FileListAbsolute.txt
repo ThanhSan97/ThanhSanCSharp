@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\DOTNET\CS09_PhuongThuc\bin\Debug\net6.0\CS09_PhuongThuc.exe
+C:\Users\DELL\Desktop\DOTNET\CS09_PhuongThuc\bin\Debug\net6.0\CS09_PhuongThuc.deps.json
+C:\Users\DELL\Desktop\DOTNET\CS09_PhuongThuc\bin\Debug\net6.0\CS09_PhuongThuc.runtimeconfig.json
+C:\Users\DELL\Desktop\DOTNET\CS09_PhuongThuc\bin\Debug\net6.0\CS09_PhuongThuc.dll
+C:\Users\DELL\Desktop\DOTNET\CS09_PhuongThuc\bin\Debug\net6.0\CS09_PhuongThuc.pdb
+C:\Users\DELL\Desktop\DOTNET\CS09_PhuongThuc\obj\Debug\net6.0\CS09_PhuongThuc.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DOTNET\CS09_PhuongThuc\obj\Debug\net6.0\CS09_PhuongThuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DOTNET\CS09_PhuongThuc\obj\Debug\net6.0\CS09_PhuongThuc.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DOTNET\CS09_PhuongThuc\obj\Debug\net6.0\CS09_PhuongThuc.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DOTNET\CS09_PhuongThuc\obj\Debug\net6.0\CS09_PhuongThuc.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DOTNET\CS09_PhuongThuc\obj\Debug\net6.0\CS09_PhuongThuc.dll
+C:\Users\DELL\Desktop\DOTNET\CS09_PhuongThuc\obj\Debug\net6.0\refint\CS09_PhuongThuc.dll
+C:\Users\DELL\Desktop\DOTNET\CS09_PhuongThuc\obj\Debug\net6.0\CS09_PhuongThuc.pdb
+C:\Users\DELL\Desktop\DOTNET\CS09_PhuongThuc\obj\Debug\net6.0\CS09_PhuongThuc.genruntimeconfig.cache
+C:\Users\DELL\Desktop\DOTNET\CS09_PhuongThuc\obj\Debug\net6.0\ref\CS09_PhuongThuc.dll

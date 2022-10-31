@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\LapTrinhDotNet\obj\Debug\net6.0\LapTrinhDotNet.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\LapTrinhDotNet\obj\Debug\net6.0\LapTrinhDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\LapTrinhDotNet\obj\Debug\net6.0\LapTrinhDotNet.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\LapTrinhDotNet\obj\Debug\net6.0\LapTrinhDotNet.AssemblyInfo.cs
+C:\Users\DELL\Desktop\LapTrinhDotNet\obj\Debug\net6.0\LapTrinhDotNet.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\LapTrinhDotNet\bin\Debug\net6.0\LapTrinhDotNet.exe
+C:\Users\DELL\Desktop\LapTrinhDotNet\bin\Debug\net6.0\LapTrinhDotNet.deps.json
+C:\Users\DELL\Desktop\LapTrinhDotNet\bin\Debug\net6.0\LapTrinhDotNet.runtimeconfig.json
+C:\Users\DELL\Desktop\LapTrinhDotNet\bin\Debug\net6.0\LapTrinhDotNet.dll
+C:\Users\DELL\Desktop\LapTrinhDotNet\bin\Debug\net6.0\LapTrinhDotNet.pdb
+C:\Users\DELL\Desktop\LapTrinhDotNet\obj\Debug\net6.0\LapTrinhDotNet.dll
+C:\Users\DELL\Desktop\LapTrinhDotNet\obj\Debug\net6.0\refint\LapTrinhDotNet.dll
+C:\Users\DELL\Desktop\LapTrinhDotNet\obj\Debug\net6.0\LapTrinhDotNet.pdb
+C:\Users\DELL\Desktop\LapTrinhDotNet\obj\Debug\net6.0\LapTrinhDotNet.genruntimeconfig.cache
+C:\Users\DELL\Desktop\LapTrinhDotNet\obj\Debug\net6.0\ref\LapTrinhDotNet.dll
