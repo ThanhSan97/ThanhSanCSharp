@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS14_TinhKeThua\bin\Debug\net6.0\CS14_TinhKeThua.exe
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS14_TinhKeThua\bin\Debug\net6.0\CS14_TinhKeThua.deps.json
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS14_TinhKeThua\bin\Debug\net6.0\CS14_TinhKeThua.runtimeconfig.json
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS14_TinhKeThua\bin\Debug\net6.0\CS14_TinhKeThua.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS14_TinhKeThua\bin\Debug\net6.0\CS14_TinhKeThua.pdb
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS14_TinhKeThua\obj\Debug\net6.0\CS14_TinhKeThua.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS14_TinhKeThua\obj\Debug\net6.0\CS14_TinhKeThua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS14_TinhKeThua\obj\Debug\net6.0\CS14_TinhKeThua.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS14_TinhKeThua\obj\Debug\net6.0\CS14_TinhKeThua.AssemblyInfo.cs
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS14_TinhKeThua\obj\Debug\net6.0\CS14_TinhKeThua.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS14_TinhKeThua\obj\Debug\net6.0\CS14_TinhKeThua.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS14_TinhKeThua\obj\Debug\net6.0\refint\CS14_TinhKeThua.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS14_TinhKeThua\obj\Debug\net6.0\CS14_TinhKeThua.pdb
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS14_TinhKeThua\obj\Debug\net6.0\CS14_TinhKeThua.genruntimeconfig.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS14_TinhKeThua\obj\Debug\net6.0\ref\CS14_TinhKeThua.dll
