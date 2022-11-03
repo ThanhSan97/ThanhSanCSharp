@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS15_NameSpace_Va_Partial\bin\Debug\net6.0\CS15_NameSpace_Va_Partial.exe
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS15_NameSpace_Va_Partial\bin\Debug\net6.0\CS15_NameSpace_Va_Partial.deps.json
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS15_NameSpace_Va_Partial\bin\Debug\net6.0\CS15_NameSpace_Va_Partial.runtimeconfig.json
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS15_NameSpace_Va_Partial\bin\Debug\net6.0\CS15_NameSpace_Va_Partial.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS15_NameSpace_Va_Partial\bin\Debug\net6.0\CS15_NameSpace_Va_Partial.pdb
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS15_NameSpace_Va_Partial\obj\Debug\net6.0\CS15_NameSpace_Va_Partial.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS15_NameSpace_Va_Partial\obj\Debug\net6.0\CS15_NameSpace_Va_Partial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS15_NameSpace_Va_Partial\obj\Debug\net6.0\CS15_NameSpace_Va_Partial.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS15_NameSpace_Va_Partial\obj\Debug\net6.0\CS15_NameSpace_Va_Partial.AssemblyInfo.cs
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS15_NameSpace_Va_Partial\obj\Debug\net6.0\CS15_NameSpace_Va_Partial.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS15_NameSpace_Va_Partial\obj\Debug\net6.0\CS15_NameSpace_Va_Partial.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS15_NameSpace_Va_Partial\obj\Debug\net6.0\refint\CS15_NameSpace_Va_Partial.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS15_NameSpace_Va_Partial\obj\Debug\net6.0\CS15_NameSpace_Va_Partial.pdb
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS15_NameSpace_Va_Partial\obj\Debug\net6.0\CS15_NameSpace_Va_Partial.genruntimeconfig.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS15_NameSpace_Va_Partial\obj\Debug\net6.0\ref\CS15_NameSpace_Va_Partial.dll
