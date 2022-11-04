@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS16_Generic\bin\Debug\net6.0\CS16_Generic.exe
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS16_Generic\bin\Debug\net6.0\CS16_Generic.deps.json
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS16_Generic\bin\Debug\net6.0\CS16_Generic.runtimeconfig.json
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS16_Generic\bin\Debug\net6.0\CS16_Generic.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS16_Generic\bin\Debug\net6.0\CS16_Generic.pdb
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS16_Generic\obj\Debug\net6.0\CS16_Generic.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS16_Generic\obj\Debug\net6.0\CS16_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS16_Generic\obj\Debug\net6.0\CS16_Generic.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS16_Generic\obj\Debug\net6.0\CS16_Generic.AssemblyInfo.cs
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS16_Generic\obj\Debug\net6.0\CS16_Generic.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS16_Generic\obj\Debug\net6.0\CS16_Generic.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS16_Generic\obj\Debug\net6.0\refint\CS16_Generic.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS16_Generic\obj\Debug\net6.0\CS16_Generic.pdb
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS16_Generic\obj\Debug\net6.0\CS16_Generic.genruntimeconfig.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS16_Generic\obj\Debug\net6.0\ref\CS16_Generic.dll
