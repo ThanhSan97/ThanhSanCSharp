@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS17_KieuVoDanh(Anonymous)\bin\Debug\net6.0\CS17_KieuVoDanh(Anonymous).exe
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS17_KieuVoDanh(Anonymous)\bin\Debug\net6.0\CS17_KieuVoDanh(Anonymous).deps.json
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS17_KieuVoDanh(Anonymous)\bin\Debug\net6.0\CS17_KieuVoDanh(Anonymous).runtimeconfig.json
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS17_KieuVoDanh(Anonymous)\bin\Debug\net6.0\CS17_KieuVoDanh(Anonymous).dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS17_KieuVoDanh(Anonymous)\bin\Debug\net6.0\CS17_KieuVoDanh(Anonymous).pdb
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS17_KieuVoDanh(Anonymous)\obj\Debug\net6.0\CS17_KieuVoDanh(Anonymous).csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS17_KieuVoDanh(Anonymous)\obj\Debug\net6.0\CS17_KieuVoDanh(Anonymous).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS17_KieuVoDanh(Anonymous)\obj\Debug\net6.0\CS17_KieuVoDanh(Anonymous).AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS17_KieuVoDanh(Anonymous)\obj\Debug\net6.0\CS17_KieuVoDanh(Anonymous).AssemblyInfo.cs
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS17_KieuVoDanh(Anonymous)\obj\Debug\net6.0\CS17_KieuVoDanh(Anonymous).csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS17_KieuVoDanh(Anonymous)\obj\Debug\net6.0\CS17_KieuVoDanh(Anonymous).dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS17_KieuVoDanh(Anonymous)\obj\Debug\net6.0\refint\CS17_KieuVoDanh(Anonymous).dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS17_KieuVoDanh(Anonymous)\obj\Debug\net6.0\CS17_KieuVoDanh(Anonymous).pdb
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS17_KieuVoDanh(Anonymous)\obj\Debug\net6.0\CS17_KieuVoDanh(Anonymous).genruntimeconfig.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS17_KieuVoDanh(Anonymous)\obj\Debug\net6.0\ref\CS17_KieuVoDanh(Anonymous).dll
