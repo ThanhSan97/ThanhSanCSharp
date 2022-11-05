@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\DOTNET\\CS10_ClassVaOOp\\CS10_ClassVaOOp.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\90Ngay_Hoc_CSharp\\CS10_ClassVaOOp\\CS10_ClassVaOOp.csproj",
       "projectName": "CS10_ClassVaOOp",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\DOTNET\\CS10_ClassVaOOp\\CS10_ClassVaOOp.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\90Ngay_Hoc_CSharp\\CS10_ClassVaOOp\\CS10_ClassVaOOp.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\DOTNET\\CS10_ClassVaOOp\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\90Ngay_Hoc_CSharp\\CS10_ClassVaOOp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

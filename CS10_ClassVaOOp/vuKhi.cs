@@ -28,16 +28,25 @@ namespace CS10_Class
         }
         //Thuoc tinh
         public int satThuong
-        {   //Thi hanh khi gan
+        {   //Thi hanh khi gan =
             set
-            {
+            {   
                 doST = value;
             }
             //Thi hanh khi truy cap
             get
             {
-                return doST;
+                if (doST <= 0){
+                    System.Console.WriteLine("Do sat thuong khong hop le");
+                    return -1;
+                } else {
+                    return doST;
+                } 
             }
+        }
+        public override string ToString()
+        {
+            return base.ToString();
         }
         ~vuKhi(){
             Console.ForegroundColor = ConsoleColor.Red;
