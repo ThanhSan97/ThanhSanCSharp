@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS18_NULL_va_Nullable\bin\Debug\net6.0\CS18_NULL_va_Nullable.exe
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS18_NULL_va_Nullable\bin\Debug\net6.0\CS18_NULL_va_Nullable.deps.json
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS18_NULL_va_Nullable\bin\Debug\net6.0\CS18_NULL_va_Nullable.runtimeconfig.json
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS18_NULL_va_Nullable\bin\Debug\net6.0\CS18_NULL_va_Nullable.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS18_NULL_va_Nullable\bin\Debug\net6.0\CS18_NULL_va_Nullable.pdb
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS18_NULL_va_Nullable\obj\Debug\net6.0\CS18_NULL_va_Nullable.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS18_NULL_va_Nullable\obj\Debug\net6.0\CS18_NULL_va_Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS18_NULL_va_Nullable\obj\Debug\net6.0\CS18_NULL_va_Nullable.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS18_NULL_va_Nullable\obj\Debug\net6.0\CS18_NULL_va_Nullable.AssemblyInfo.cs
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS18_NULL_va_Nullable\obj\Debug\net6.0\CS18_NULL_va_Nullable.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS18_NULL_va_Nullable\obj\Debug\net6.0\CS18_NULL_va_Nullable.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS18_NULL_va_Nullable\obj\Debug\net6.0\refint\CS18_NULL_va_Nullable.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS18_NULL_va_Nullable\obj\Debug\net6.0\CS18_NULL_va_Nullable.pdb
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS18_NULL_va_Nullable\obj\Debug\net6.0\CS18_NULL_va_Nullable.genruntimeconfig.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS18_NULL_va_Nullable\obj\Debug\net6.0\ref\CS18_NULL_va_Nullable.dll
