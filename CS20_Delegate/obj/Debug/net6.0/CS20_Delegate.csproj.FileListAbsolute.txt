@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS20_Delegate\bin\Debug\net6.0\CS20_Delegate.exe
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS20_Delegate\bin\Debug\net6.0\CS20_Delegate.deps.json
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS20_Delegate\bin\Debug\net6.0\CS20_Delegate.runtimeconfig.json
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS20_Delegate\bin\Debug\net6.0\CS20_Delegate.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS20_Delegate\bin\Debug\net6.0\CS20_Delegate.pdb
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS20_Delegate\obj\Debug\net6.0\CS20_Delegate.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS20_Delegate\obj\Debug\net6.0\CS20_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS20_Delegate\obj\Debug\net6.0\CS20_Delegate.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS20_Delegate\obj\Debug\net6.0\CS20_Delegate.AssemblyInfo.cs
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS20_Delegate\obj\Debug\net6.0\CS20_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS20_Delegate\obj\Debug\net6.0\CS20_Delegate.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS20_Delegate\obj\Debug\net6.0\refint\CS20_Delegate.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS20_Delegate\obj\Debug\net6.0\CS20_Delegate.pdb
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS20_Delegate\obj\Debug\net6.0\CS20_Delegate.genruntimeconfig.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS20_Delegate\obj\Debug\net6.0\ref\CS20_Delegate.dll
