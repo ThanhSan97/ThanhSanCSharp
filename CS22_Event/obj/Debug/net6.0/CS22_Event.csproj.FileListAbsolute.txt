@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS22_Event\bin\Debug\net6.0\CS22_Event.exe
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS22_Event\bin\Debug\net6.0\CS22_Event.deps.json
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS22_Event\bin\Debug\net6.0\CS22_Event.runtimeconfig.json
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS22_Event\bin\Debug\net6.0\CS22_Event.dll
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS22_Event\bin\Debug\net6.0\CS22_Event.pdb
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS22_Event\obj\Debug\net6.0\CS22_Event.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS22_Event\obj\Debug\net6.0\CS22_Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS22_Event\obj\Debug\net6.0\CS22_Event.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS22_Event\obj\Debug\net6.0\CS22_Event.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS22_Event\obj\Debug\net6.0\CS22_Event.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS22_Event\obj\Debug\net6.0\CS22_Event.dll
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS22_Event\obj\Debug\net6.0\refint\CS22_Event.dll
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS22_Event\obj\Debug\net6.0\CS22_Event.pdb
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS22_Event\obj\Debug\net6.0\CS22_Event.genruntimeconfig.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS22_Event\obj\Debug\net6.0\ref\CS22_Event.dll
