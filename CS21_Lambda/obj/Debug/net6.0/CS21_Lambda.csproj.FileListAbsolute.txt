@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS21_Lambda\obj\Debug\net6.0\CS21_Lambda.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS21_Lambda\obj\Debug\net6.0\CS21_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS21_Lambda\obj\Debug\net6.0\CS21_Lambda.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS21_Lambda\obj\Debug\net6.0\CS21_Lambda.AssemblyInfo.cs
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS21_Lambda\obj\Debug\net6.0\CS21_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS21_Lambda\bin\Debug\net6.0\CS21_Lambda.exe
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS21_Lambda\bin\Debug\net6.0\CS21_Lambda.deps.json
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS21_Lambda\bin\Debug\net6.0\CS21_Lambda.runtimeconfig.json
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS21_Lambda\bin\Debug\net6.0\CS21_Lambda.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS21_Lambda\bin\Debug\net6.0\CS21_Lambda.pdb
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS21_Lambda\obj\Debug\net6.0\CS21_Lambda.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS21_Lambda\obj\Debug\net6.0\refint\CS21_Lambda.dll
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS21_Lambda\obj\Debug\net6.0\CS21_Lambda.pdb
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS21_Lambda\obj\Debug\net6.0\CS21_Lambda.genruntimeconfig.cache
+C:\Users\DELL\Desktop\90Ngay_Hoc_CSharp\CS21_Lambda\obj\Debug\net6.0\ref\CS21_Lambda.dll
