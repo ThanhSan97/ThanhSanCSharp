@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS25_NgoaiLe_Exception\bin\Debug\net6.0\CS25_NgoaiLe_Exception.exe
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS25_NgoaiLe_Exception\bin\Debug\net6.0\CS25_NgoaiLe_Exception.deps.json
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS25_NgoaiLe_Exception\bin\Debug\net6.0\CS25_NgoaiLe_Exception.runtimeconfig.json
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS25_NgoaiLe_Exception\bin\Debug\net6.0\CS25_NgoaiLe_Exception.dll
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS25_NgoaiLe_Exception\bin\Debug\net6.0\CS25_NgoaiLe_Exception.pdb
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS25_NgoaiLe_Exception\obj\Debug\net6.0\CS25_NgoaiLe_Exception.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS25_NgoaiLe_Exception\obj\Debug\net6.0\CS25_NgoaiLe_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS25_NgoaiLe_Exception\obj\Debug\net6.0\CS25_NgoaiLe_Exception.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS25_NgoaiLe_Exception\obj\Debug\net6.0\CS25_NgoaiLe_Exception.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS25_NgoaiLe_Exception\obj\Debug\net6.0\CS25_NgoaiLe_Exception.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS25_NgoaiLe_Exception\obj\Debug\net6.0\CS25_NgoaiLe_Exception.dll
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS25_NgoaiLe_Exception\obj\Debug\net6.0\refint\CS25_NgoaiLe_Exception.dll
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS25_NgoaiLe_Exception\obj\Debug\net6.0\CS25_NgoaiLe_Exception.pdb
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS25_NgoaiLe_Exception\obj\Debug\net6.0\CS25_NgoaiLe_Exception.genruntimeconfig.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS25_NgoaiLe_Exception\obj\Debug\net6.0\ref\CS25_NgoaiLe_Exception.dll
