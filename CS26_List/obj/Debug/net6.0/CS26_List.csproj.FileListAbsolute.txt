@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS26_List\bin\Debug\net6.0\CS26_List.exe
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS26_List\bin\Debug\net6.0\CS26_List.deps.json
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS26_List\bin\Debug\net6.0\CS26_List.runtimeconfig.json
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS26_List\bin\Debug\net6.0\CS26_List.dll
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS26_List\bin\Debug\net6.0\CS26_List.pdb
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS26_List\obj\Debug\net6.0\CS26_List.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS26_List\obj\Debug\net6.0\CS26_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS26_List\obj\Debug\net6.0\CS26_List.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS26_List\obj\Debug\net6.0\CS26_List.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS26_List\obj\Debug\net6.0\CS26_List.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS26_List\obj\Debug\net6.0\CS26_List.dll
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS26_List\obj\Debug\net6.0\refint\CS26_List.dll
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS26_List\obj\Debug\net6.0\CS26_List.pdb
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS26_List\obj\Debug\net6.0\CS26_List.genruntimeconfig.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS26_List\obj\Debug\net6.0\ref\CS26_List.dll
