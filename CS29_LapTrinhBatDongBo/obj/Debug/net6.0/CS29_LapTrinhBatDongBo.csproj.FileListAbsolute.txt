@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS29_LapTrinhBatDongBo\bin\Debug\net6.0\CS29_LapTrinhBatDongBo.exe
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS29_LapTrinhBatDongBo\bin\Debug\net6.0\CS29_LapTrinhBatDongBo.deps.json
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS29_LapTrinhBatDongBo\bin\Debug\net6.0\CS29_LapTrinhBatDongBo.runtimeconfig.json
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS29_LapTrinhBatDongBo\bin\Debug\net6.0\CS29_LapTrinhBatDongBo.dll
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS29_LapTrinhBatDongBo\bin\Debug\net6.0\CS29_LapTrinhBatDongBo.pdb
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS29_LapTrinhBatDongBo\obj\Debug\net6.0\CS29_LapTrinhBatDongBo.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS29_LapTrinhBatDongBo\obj\Debug\net6.0\CS29_LapTrinhBatDongBo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS29_LapTrinhBatDongBo\obj\Debug\net6.0\CS29_LapTrinhBatDongBo.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS29_LapTrinhBatDongBo\obj\Debug\net6.0\CS29_LapTrinhBatDongBo.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS29_LapTrinhBatDongBo\obj\Debug\net6.0\CS29_LapTrinhBatDongBo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS29_LapTrinhBatDongBo\obj\Debug\net6.0\CS29_LapTrinhBatDongBo.dll
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS29_LapTrinhBatDongBo\obj\Debug\net6.0\refint\CS29_LapTrinhBatDongBo.dll
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS29_LapTrinhBatDongBo\obj\Debug\net6.0\CS29_LapTrinhBatDongBo.pdb
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS29_LapTrinhBatDongBo\obj\Debug\net6.0\CS29_LapTrinhBatDongBo.genruntimeconfig.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS29_LapTrinhBatDongBo\obj\Debug\net6.0\ref\CS29_LapTrinhBatDongBo.dll
