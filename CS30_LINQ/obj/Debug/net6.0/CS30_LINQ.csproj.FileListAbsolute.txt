@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS30_LINQ\bin\Debug\net6.0\CS30_LINQ.exe
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS30_LINQ\bin\Debug\net6.0\CS30_LINQ.deps.json
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS30_LINQ\bin\Debug\net6.0\CS30_LINQ.runtimeconfig.json
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS30_LINQ\bin\Debug\net6.0\CS30_LINQ.dll
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS30_LINQ\bin\Debug\net6.0\CS30_LINQ.pdb
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS30_LINQ\obj\Debug\net6.0\CS30_LINQ.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS30_LINQ\obj\Debug\net6.0\CS30_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS30_LINQ\obj\Debug\net6.0\CS30_LINQ.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS30_LINQ\obj\Debug\net6.0\CS30_LINQ.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS30_LINQ\obj\Debug\net6.0\CS30_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS30_LINQ\obj\Debug\net6.0\CS30_LINQ.dll
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS30_LINQ\obj\Debug\net6.0\refint\CS30_LINQ.dll
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS30_LINQ\obj\Debug\net6.0\CS30_LINQ.pdb
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS30_LINQ\obj\Debug\net6.0\CS30_LINQ.genruntimeconfig.cache
+C:\Users\DELL\Desktop\ThanhSanCSharp\CS30_LINQ\obj\Debug\net6.0\ref\CS30_LINQ.dll
